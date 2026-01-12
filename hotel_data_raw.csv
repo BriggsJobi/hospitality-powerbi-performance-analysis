@@ -1999,3 +1999,4 @@ Customer_ID,Customer_Name,Gender,Age,Nationality,Booking_ID,Booking_Date,Duratio
 1998,Caitlyn Alvarado,Female,60,Egypt,1998,6/20/2017,3,Deluxe," $1,205.67 ", $569.68 ,No,Phone,4,Leisure,2,2," $3,193.30 ",6.909,Seasonal Discount,Oxford Road,5,Premium,Online,Sports Event,No
 1999,Brandon Russell,Female,63,Ghana,1999,6/21/2017,14,Double," $2,079.28 ", $916.21 ,Yes,Direct,3,Other,2,3," $3,408.00 ",5.249,Loyalty Offer,Blue Roof Hotel,5,Premium,Third-party,None,No
 2000,Sharon Knight MD,Male,28,Egypt,2000,6/22/2017,10,Single, $915.10 , $971.68 ,No,Phone,4,Business,2,3," $1,039.85 ",8.656,Loyalty Offer,Bahamas Luxury,5,Budget,Third-party,None,No
+
