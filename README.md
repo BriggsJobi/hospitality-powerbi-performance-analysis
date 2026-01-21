@@ -1,4 +1,4 @@
-# Urbanstay Hospitality Performance & Competitor Analysis Dashboard (Power BI)
+# Urbanstay Hospitality Performance & Competitor Analysis (Power BI)
 
 ## Project Summary
 This project analyzes hotel performance, customer behavior, booking channels, and competitor pricing strategies using Power BI. The goal is to identify revenue trends, customer segments, operational gaps, and competitive positioning in order to support data-driven business decisions in the hospitality industry.
